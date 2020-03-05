@@ -1,5 +1,5 @@
 <changelog>
 	<changes>
-		<version>1.0.4</version>
-		<change>Fixed uninstall sciprt</change>
+		<version>1.0.5</version>
+		<change>Auto Resrping to make sure changes take effect</change>
 </changelog>

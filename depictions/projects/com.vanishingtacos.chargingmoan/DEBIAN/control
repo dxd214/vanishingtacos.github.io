@@ -1,6 +1,6 @@
 Package: com.vanishingtacos.chargingmoan
 Name: ChargingMoan
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>=13.0)
 Description: Moaning sound when charger gets plugged in  

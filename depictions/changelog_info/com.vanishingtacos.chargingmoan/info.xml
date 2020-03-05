@@ -1,7 +1,7 @@
 <package>
 	<id>com.vanishingtacos.chargingmoan</id>
 	<name>ChargingMoan</name>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.3.1</maxiOS>
@@ -18,7 +18,7 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-        <change>Fixed uninstall script</change>
+        <change>Auto respring to make sure changes take effect</change>
 	</changelog>
 	<links></links>
 </package>
