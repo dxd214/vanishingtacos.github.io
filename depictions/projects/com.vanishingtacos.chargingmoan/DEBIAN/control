@@ -1,0 +1,10 @@
+Package: com.vanishingtacos.chargingmoan
+Name: ChargingMoan
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>=13.0)
+Description: Moaning sound when charger gets plugged in  
+Maintainer: VanishingTacos
+Author: VanishingTacos
+Section: Themes (Sound)
+Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.chargingmoan
