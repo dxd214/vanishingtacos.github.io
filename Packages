@@ -53,9 +53,9 @@ Maintainer: VanishingTacos
 Depends: firmware (>=13.0)
 Filename: ./debs/com.vanishingtacos.chargingmoan_1.0.1_iphoneos-arm.deb
 Size: 431858
-MD5sum: c57798358f27bb1c2b140bb9e6e655c6
-SHA1: 77dcdda9865105dc8b0d5828b598b5c8119e39b4
-SHA256: cd0606d0929bdde93b4919322965818abf51fc8234795c3f8c65d4a192e426f4
+MD5sum: b45516e5b32d1faa5e1385bd1c40c5c2
+SHA1: a6ae64c652cb82ec92e0d70df478cca42de0c893
+SHA256: f276dc821f2280b52a4a57100498a32238b9ae3dafdf8f77341b017b9aaf67a1
 Section: Themes (Sound)
 Description: Moaning sound when charger gets plugged in
 Author: VanishingTacos
