@@ -1,5 +1,1 @@
-echo "hello world"
-echo "test"
-echo "testing"
-echo "123"
-echo "ABC"
+mv /System/Library/Audio/UISounds/connect_power.caf /System/Library/Audio/UISounds/connect_power.caf.bak
