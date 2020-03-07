@@ -10,4 +10,4 @@ echo "2"
 sleep 1
 echo "1"
 
-killall -9 backboardd
+killall -9 SpringBoard
