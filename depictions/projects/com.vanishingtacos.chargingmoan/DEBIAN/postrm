@@ -1,17 +1,7 @@
 mv /System/Library/Audio/UISounds/connect_power.caf.bak /System/Library/Audio/UISounds/connect_power.caf
 
-echo "We will repsring in..."
-sleep 1
-echo "5"
-sleep 1
-echo "4"
-sleep 1
-echo "3"
-sleep 1
-echo "2"
-sleep 1
-echo "1"
-
-killall -9 SpringBoard
+echo "RESPRING FOR CHANGES TO TAKE AFFECT!!"
+echo "RESPRING FOR CHANGES TO TAKE AFFECT!!"
+echo "RESPRING FOR CHANGES TO TAKE AFFECT!!"
 
 
