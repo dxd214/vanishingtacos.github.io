@@ -46,22 +46,6 @@ Author: VanishingTacos
 Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.ballcolor
 Name: Ball Color Respring Animation
 
-Package: com.vanishingtacos.chargingmoan
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: VanishingTacos
-Depends: mobilesubstrate, firmware (>=13.0)
-Filename: ./debs/com.vanishingtacos.chargingmoan_1.0.5_iphoneos-arm.deb
-Size: 431948
-MD5sum: 84f612768140d896ac655cf0519d6af1
-SHA1: a015f1043866c044ee4874d27aef559c2006aaac
-SHA256: 0eb6b964bddf0d28fea54f94d965ab091979649d4b12fe78c883ea4910c6dc2f
-Section: Themes (Sound)
-Description: Moaning sound when charger gets plugged in
-Author: VanishingTacos
-Depiction: https://vanishingtacos.github.io/depictions/?p=com.vanishingtacos.chargingmoan
-Name: ChargingMoan
-
 Package: com.vanishingtacos.colorball
 Version: 1.0.0
 Architecture: iphoneos-arm
